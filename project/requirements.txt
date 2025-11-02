@@ -1,0 +1,16 @@
+pandas
+numpy
+openpyxl
+matplotlib
+plotly
+scikit-learn
+seaborn
+statsmodels
+jupyterlab
+jupyter
+scipy
+prophet
+xlrd
+lifetimes
+ortools
+PyPortfolioOpt
