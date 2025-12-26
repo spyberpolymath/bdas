@@ -498,7 +498,6 @@ Conditions:
 
 - 📧 Email: [projects@spyberpolymath.com](mailto:projects@spyberpolymath.com)
 - 💼 LinkedIn: [linkedin.com/in/spyberpolymath](https://linkedin.com/in/spyberpolymath)
-- 🐦 X/Twitter: [@spyberpolymath](https://x.com/spyberpolymath)
 - 🌐 Website: [spyberpolymath.com](https://spyberpolymath.com)
 
 ### 🤝 Get Help
